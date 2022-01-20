@@ -1,0 +1,9 @@
+.author {
+    font-weight: bold;
+    margin-bottom: 0;
+    color: rgb(152, 75, 224);
+}
+
+.element>p {
+    margin: 0;
+}
